@@ -3,7 +3,7 @@
 This simple OpenCV tool helps you interactively select and visualize a color range in the HSV (Hue, Saturation, Value) color space using trackbars. It's useful for color segmentation tasks such as object detection, image masking, and preprocessing in computer vision projects.
 
 ## 📷 Demo
-![HSV Range Selector Example](![image](https://github.com/user-attachments/assets/70a903ac-bdbd-4645-8c4b-c41c6ebf8b3f))
+![HSV Range Selector Example](![image](https://github.com/user-attachments/assets/46cfa28e-8aa1-475a-8b1a-4d900c17e132))
 
 ## 🔧 Features
 - Load and resize an input image.
